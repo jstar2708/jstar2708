@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @jstar2708
+
+- 👋 Hi, I’m Jaideep Kumar Singh
+
+
+-
 - 👀 I’m interested in Coding and Open source development
 - 🌱 I’m currently learning DSA in Java
 - 💞️ Looking to collaborate on some beginner friendly project
