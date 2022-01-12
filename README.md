@@ -8,6 +8,7 @@
 - 💞️ Looking to collaborate on some beginner friendly project
 -     Certifications->
 -     1. AWS Cloud Foundation
+-     2. AWS Cloud Architect
 -     
 
 <!---
