@@ -3,6 +3,8 @@
 
 
 -
+-     Android developer
+-     Java | Kotlin
 - 👀 I’m interested in Coding and Open source development
 - 🌱 I’m currently learning DSA in Java
 - 💞️ Looking to collaborate on some beginner friendly project
