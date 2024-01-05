@@ -16,9 +16,9 @@
   <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/512/html-5.png" />
 <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/fluency/512/css3.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
-<img align="left" alt="Android" width="26px" src="https://iconscout.com/free-icon/android-206" />
-<img align="left" alt="XML" width="26px" src="https://iconscout.com/icon/xml-22" />
-<img align="left" alt="Jetpack Compose" width="26px" src="https://iconscout.com/free-icon/android-3995403" />
+<img align="left" alt="Android" width="26px" src="https://icons8.com/icon/17836/android-os" />
+<img align="left" alt="XML" width="26px" src="https://icons8.com/icon/10238/xml" />
+<img align="left" alt="Jetpack Compose" width="26px" src="https://icons8.com/icon/P2AnGyiJxMpp/android-os" />
   <br/>
   <br/>
 
@@ -26,8 +26,8 @@
   
   <img align="left" alt="Android Studio" width="26px" src="https://img.icons8.com/?size=512&id=04OFrkjznvcd&format=png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/512/git.png" />
-<img align="left" alt="Inellij Idea" width="26px" src="https://iconscout.com/free-icon/intellij-4" />
-<img align="left" alt="VS Code" width="26px" src="https://iconscout.com/free-icon/visual-studio-code-3251603" />
+<img align="left" alt="Inellij Idea" width="26px" src="https://icons8.com/icon/w1Gq29w4RQWL/intellij-idea" />
+<img align="left" alt="VS Code" width="26px" src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019" />
   <br/>
   <br/>
 
