@@ -17,7 +17,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/fluency/512/css3.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
 <img align="left" alt="Android" width="26px" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Android-logos-and-brands-those-icons-flat-those-icons.png" />
-<img align="left" alt="XML" width="26px" src="https://img.icons8.com/ios-filled/50/xml.png" />
+<img align="left" alt="XML" width="26px" src="https://img.icons8.com/ios/50/xml.png" />
 <img align="left" alt="Jetpack Compose" width="26px" src="https://camo.githubusercontent.com/31e4e5e407047cf4c036ecd5fe50eda0b5abf08ffcad575ca4fc0b791c34975b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667" />
   <br/>
   <br/>
@@ -39,8 +39,5 @@
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/512/mongodb.png" />
 <br>
 <br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nischay-code&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Github Stats">
  
 
