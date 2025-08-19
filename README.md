@@ -5,17 +5,12 @@
 - **Languages**:
   
   <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/kotlin.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/?size=512&id=nCj4PvnCO0tZ&format=png" />
+<img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/kotlin.png" />>
   <br/>
   <br/>
   
 - **Development**:
   
-  <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/512/html-5.png" />
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/fluency/512/css3.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
 <img align="left" alt="Android" width="26px" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Android-logos-and-brands-those-icons-flat-those-icons.png" />
 <img align="left" alt="XML" width="26px" src="https://img.icons8.com/papercut/60/xml.png" />
 <img align="left" alt="Jetpack Compose" width="26px" src="https://camo.githubusercontent.com/31e4e5e407047cf4c036ecd5fe50eda0b5abf08ffcad575ca4fc0b791c34975b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667" />
